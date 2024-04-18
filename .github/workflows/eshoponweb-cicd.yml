@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-wakanda
   LOCATION: eastasia
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: Mohammad Sani Bin Abdullah (PFSA0923)
+  SUBSCRIPTION-ID: e5464358-1b36-4078-9adc-cc43797f5bfc
   WEBAPP-NAME: eshoponweb-Thundercats
 
 
