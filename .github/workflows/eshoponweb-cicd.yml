@@ -9,7 +9,7 @@ env:
   LOCATION: eastasia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: cf4a4ff6-d3af-49d0-98c9-8581eca3866f
-  WEBAPP-NAME: eshoponweb-Thundercats
+  WEBAPP-NAME: eshoponweb-Supadooper
 
 
 jobs:
